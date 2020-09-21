@@ -1,0 +1,58 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.time-line-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background: -moz-linear-gradient(top, #eeeeee 0%, #cccccc 100%);
+    background: -webkit-linear-gradient(
+      top,
+      #eeeeee 0%,
+      #cccccc 100%
+    ); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #eeeeee 0%, #cccccc 100%);
+    height: 50px;
+    color: grey;
+    align-items: center;
+}
+.mode-container-title {
+    margin: 0px 20px;
+    flex: 1 1 auto;
+    text-shadow: 0.5px 0.5px white;
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bolder;
+    user-select: none;
+  }
+.operation-button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    justify-self: flex-end;
+}
+.mode-button {
+background-color: #333333;
+width: 30px;
+height: 30px;
+border-radius: 15px;
+margin: 0px 3px;
+}
+.mode-button:hover {
+background-color: rgb(202, 33, 212);
+}

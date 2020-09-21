@@ -1,0 +1,32 @@
+[
+    {
+        "sensorType" : "strain",
+        "position": { "x": 2.3050763607025146, "y": -15.35540771484375, "z": 26.345144271850586 },
+        "bindElementId": 4762
+    },
+    {
+        "sensorType" : "strain",
+        "position": { "x": 40.65, "y": 45.81, "z": 2.56 },
+        "bindElementId": 4713
+    },
+    {
+        "sensorType" : "strain",
+        "position": { "x": -90.45, "y": -16.01, "z": 26.56 },
+        "bindElementId": 4742
+    },
+    {
+        "sensorType" : "acceleration",
+        "position": { "x": -60, "y": 0, "z": 15 },
+        "bindElementId": 4801
+    },
+    {
+        "sensorType" : "acceleration",
+        "position": { "x": 50, "y": -35, "z": 7 },
+        "bindElementId": 4802
+    },
+    {
+        "sensorType" : "acceleration",
+        "position": { "x": -6, "y": 50, "z": 0 },
+        "bindElementId": 4803
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "sensorType" : "strain",
+        "bindElementId": 4762,
+        "Data":
+        [
+            {
+                "Time": "Sep 1",
+                "value1": 4000,
+                "value2": 2400
+            },
+            {
+                "Time": "Sep 8",
+                "value1": 3000,
+                "value2": 1400
+            },
+            {
+                "Time": "Sep 15",
+                "value1": 2000,
+                "value2": 9800
+            },
+            {
+                "Time": "Sep 22",
+                "value1": 2780,
+                "value2": 3708
+            },
+            {
+                "Time": "Sep 29",
+                "value1": 1890,
+                "value2": 4800
+            },
+            {
+                "Time": "Oct 6",
+                "value1": 2390,
+                "value2": 3800
+            },
+            {
+                "Time": "Oct 13",
+                "value1": 3490,
+                "value2": 4300
+            }
+        ]
+    },
+    {
+        "sensorType" : "strain",
+        "bindElementId": 4713,
+        "Data":
+        [
+            {
+                "Time": "Sep 1",
+                "value1": 3000,
+                "value2": 1400
+            },
+            {
+                "Time": "Sep 8",
+                "value1": 4000,
+                "value2": 2400
+            },
+            {
+                "Time": "Sep 15",
+                "value1": 2780,
+                "value2": 3708
+            },
+            {
+                "Time": "Sep 22",
+                "value1": 2000,
+                "value2": 9800
+            },
+            {
+                "Time": "Sep 29",
+                "value1": 2390,
+                "value2": 3800
+            },
+            {
+                "Time": "Oct 6",
+                "value1": 1890,
+                "value2": 4800
+            },
+            {
+                "Time": "Oct 13",
+                "value1": 2090,
+                "value2": 8000
+            }
+        ]
+    },
+    {
+        "sensorType" : "strain",
+        "bindElementId": 4742,
+        "Data":
+        [
+            {
+                "Time": "Sep 1",
+                "value1": 2780,
+                "value2": 3708
+            },
+            {
+                "Time": "Sep 8",
+                "value1": 2000,
+                "value2": 9800
+            },
+            {
+                "Time": "Sep 15",
+                "value1": 3000,
+                "value2": 1400
+            },
+            {
+                "Time": "Sep 22",
+                "value1": 4000,
+                "value2": 2400
+            },
+            {
+                "Time": "Sep 29",
+                "value1": 2090,
+                "value2": 8000
+            },
+            {
+                "Time": "Oct 6",
+                "value1": 4090,
+                "value2": 6000
+            },
+            {
+                "Time": "Oct 13",
+                "value1": 2390,
+                "value2": 3800
+            }
+        ]
+    },
+    {
+        "sensorType" : "acceleration",
+        "bindElementId": 4801,
+        "Data":
+        [
+            {
+                "Time": "Sep 1",
+                "value1": 10,
+                "value2": 5
+            },
+            {
+                "Time": "Sep 8",
+                "value1": 25,
+                "value2": 4
+            },
+            {
+                "Time": "Sep 15",
+                "value1": 14,
+                "value2": 8
+            },
+            {
+                "Time": "Sep 22",
+                "value1": 24,
+                "value2": 10
+            },
+            {
+                "Time": "Sep 29",
+                "value1": 12,
+                "value2": 5
+            },
+            {
+                "Time": "Oct 6",
+                "value1": 15,
+                "value2": 2
+            },
+            {
+                "Time": "Oct 13",
+                "value1": 30,
+                "value2": 8
+            }
+        ]
+    },
+    {
+        "sensorType" : "acceleration",
+        "bindElementId": 4802,
+        "Data":
+        [
+            {
+                "Time": "Sep 1",
+                "value1": 25,
+                "value2": 4
+            },
+            {
+                "Time": "Sep 8",
+                "value1": 40,
+                "value2": 6
+            },
+            {
+                "Time": "Sep 15",
+                "value1": 24,
+                "value2": 15
+            },
+            {
+                "Time": "Sep 22",
+                "value1": 14,
+                "value2": 8
+            },
+            {
+                "Time": "Sep 29",
+                "value1": 15,
+                "value2": 3
+            },
+            {
+                "Time": "Oct 6",
+                "value1": 12,
+                "value2": 4
+            },
+            {
+                "Time": "Oct 13",
+                "value1": 25,
+                "value2": 6
+            }
+        ]
+    },
+    {
+        "sensorType" : "acceleration",
+        "bindElementId": 4803,
+        "Data":
+        [
+            {
+                "Time": "Sep 1",
+                "value1": 40,
+                "value2": 6
+            },
+            {
+                "Time": "Sep 8",
+                "value1": 25,
+                "value2": 4
+            },
+            {
+                "Time": "Sep 15",
+                "value1": 14,
+                "value2": 8
+            },
+            {
+                "Time": "Sep 22",
+                "value1": 24,
+                "value2": 15
+            },
+            {
+                "Time": "Sep 29",
+                "value1": 12,
+                "value2": 6
+            },
+            {
+                "Time": "Oct 6",
+                "value1": 20,
+                "value2": 10
+            },
+            {
+                "Time": "Oct 13",
+                "value1": 15,
+                "value2": 3
+            }
+        ]
+    }
+]

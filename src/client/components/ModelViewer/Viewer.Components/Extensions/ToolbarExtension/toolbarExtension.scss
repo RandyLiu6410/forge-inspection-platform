@@ -1,0 +1,31 @@
+.video-button {
+    background: url('../../../../../assets/images/cctv.png') no-repeat;
+    background-size: 80% 80%;
+    background-position: center; 
+}
+.sensor-button {
+    background: url('../../../../../assets/images/sensor.png') no-repeat;
+    background-size: 70% 70%;
+    background-position: center; 
+}
+.pinPoint-button {
+    background: url('../../../../../assets/images/pinpoint.png') no-repeat;
+    background-size: 70% 70%;
+    background-position: center; 
+}
+.report-button{
+    background: url('../../../../../assets/images/report.png') no-repeat;
+    background-size: 70% 70%;
+    background-position: center; 
+}
+.event-button{
+    background: url('../../../../../assets/images/event.png') no-repeat;
+    background-size: 70% 70%;
+    background-position: center; 
+}
+#SensorSelect {
+    top: 10%;
+    left: 5%;
+    position: absolute;
+    color: gray;
+}

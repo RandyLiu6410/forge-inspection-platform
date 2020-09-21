@@ -1,0 +1,18 @@
+.layout {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+}
+
+.panel {
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:#222;
+    border:1px solid #555;
+    box-sizing: border-box;
+  }

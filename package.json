@@ -1,0 +1,78 @@
+{
+  "name": "bigplatform",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^5.3.0",
+    "@material-ui/core": "^4.4.2",
+    "@material-ui/lab": "^4.0.0-alpha.26",
+    "antd": "^3.21.4",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cesium": "^1.60.0",
+    "cors": "^2.8.5",
+    "craco-cesium": "^1.1.1",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "flexlayout-react": "^0.3.4",
+    "fs": "0.0.1-security",
+    "jquery": "^3.4.1",
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.1",
+    "morgan": "^1.9.1",
+    "node-array": "^0.0.7",
+    "node-sass": "^4.12.0",
+    "prop-types": "^15.7.2",
+    "qs": "^6.8.0",
+    "randomcolor": "^0.5.4",
+    "rc-dock": "^2.4.4",
+    "react": "^16.9.0",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^16.9.0",
+    "react-gantt-timeline": "^0.4.0",
+    "react-player": "^1.12.0",
+    "react-redux": "^7.1.0",
+    "react-rt-chart": "^2.0.0",
+    "react-scripts": "3.1.0",
+    "react-simple-tree-menu": "^1.1.5",
+    "react-sizeme": "^2.6.7",
+    "react-spring": "^8.0.27",
+    "recharts": "^1.7.1",
+    "redux": "^4.0.4",
+    "resium": "^1.7.0",
+    "semantic-ui-react": "^0.88.1",
+    "snapsvg-cjs": "^0.0.6",
+    "styled-components": "^4.3.2",
+    "three": "^0.108.0"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3001",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
